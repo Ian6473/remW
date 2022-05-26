@@ -1,4 +1,4 @@
-                            loadstring(game:HttpGet("https://pastebin.com/raw/Beu4XPZM"))()
+                            loadstring(game:HttpGet("https://pastebin.com/raw/G43yNdsK"))()
 
                             local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/Ian6473/lll/main/remlockversion", true))()
                             Aiming.TeamCheck(false)
